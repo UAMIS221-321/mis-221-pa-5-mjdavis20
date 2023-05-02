@@ -1,0 +1,15 @@
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\bin\Debug\net6.0\mis-221-pa-5-mjdavis20.exe
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\bin\Debug\net6.0\mis-221-pa-5-mjdavis20.deps.json
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\bin\Debug\net6.0\mis-221-pa-5-mjdavis20.runtimeconfig.json
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\bin\Debug\net6.0\mis-221-pa-5-mjdavis20.dll
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\bin\Debug\net6.0\mis-221-pa-5-mjdavis20.pdb
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\mis-221-pa-5-mjdavis20.csproj.AssemblyReference.cache
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\mis-221-pa-5-mjdavis20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\mis-221-pa-5-mjdavis20.AssemblyInfoInputs.cache
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\mis-221-pa-5-mjdavis20.AssemblyInfo.cs
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\mis-221-pa-5-mjdavis20.csproj.CoreCompileInputs.cache
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\mis-221-pa-5-mjdavis20.dll
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\refint\mis-221-pa-5-mjdavis20.dll
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\mis-221-pa-5-mjdavis20.pdb
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\mis-221-pa-5-mjdavis20.genruntimeconfig.cache
+C:\Users\MainUser\Code\MIS221\mis-221-pa-5-mjdavis20\obj\Debug\net6.0\ref\mis-221-pa-5-mjdavis20.dll
